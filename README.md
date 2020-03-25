@@ -1,3 +1,7 @@
+<h4>This is a redux practice project done using create react app. The create-react-app default readme starts from below</h4>
+<hr>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
